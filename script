@@ -1,0 +1,16 @@
+Welcome to Cloud Shell! Type "help" to get started.
+Your Cloud Platform project in this session is set to eighth-study-436814-83
+Use "gcloud config set project [PROJECT ID)" to change to a different project.
+vanniadhiyaapsarini@cloudshell: (eighth-study-436814-a3)3 cd tugas sistem.operasi
+vanniadhiyaapsarini@cloudshell:"/tugas.sistem.operasi (eighth-study-436814-8315 touch info.system.sh
+vanniadhiyaapaarini@cloudshell:"/tugan.sistem.operasi (eighth-study-436814-8315 nano info system.sh
+vanniadhiyaapsarini@cloudshell:"/tugas sistem operasi (eighth-study-436814-a315 cat info system.sh
+#!/bin/bash
+menampilkan waktu saat ini
+echo waktu saat ini (date)
+#menampilkan nama pengguna yang sedang login
+echo pengguna yang sedang login (whoami)
+Amenampilakan total pengguna disk di sistem
+echo total pengguna disk di sistem
+dfh| grep #menampilkan informasi disk yang digunakan
+vanniadhiyaapsarini@cloudshell:"/tugas_sistem_operasi (eighth-study-436814-a3)
